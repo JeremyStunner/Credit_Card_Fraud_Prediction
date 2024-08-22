@@ -10,3 +10,7 @@ This is an experiment on using different feature engineering techniques to selec
  * Use feature selection techniques like correlation plot and ANOVA test to select the best features for building the model
  * Compare the accuracy from the models built from each features produced by the correlation plot and ANOVA test
  * Develop a robust machine learning model that can accurately detect and predict fraudulent credit card transactions in real-time.
+
+   In Conclusion:
+   The correlation plot and ANOVA test techniques both produced extremely accurate features for building the predictive model, even though the ANOVA test model had a slightly higher
+   accuracy. This experiment highlights the importance of feature selection in building an accurate predictive model.
