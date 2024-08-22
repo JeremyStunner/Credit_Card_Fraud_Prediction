@@ -1,4 +1,5 @@
 # Credit_Card_Fraud_Prediction
+Click on the ipynb file to view the code.
 This is an experiment on using different feature engineering techniques to select the best features for building an accurate model for predicting credit card fraud.
  
  In today’s digital economy, credit card transactions have become an important part of daily life, offering convenience to consumers and efficiency to businesses. However, the increasing volume of these transactions has led to a corresponding rise in credit card fraud, posing significant financial risks to both consumers and financial institutions.
